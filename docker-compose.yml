@@ -1,0 +1,35 @@
+version: '3.8'
+
+services:
+  # Serviço 1: O Portal (Site que une todos)
+  portal-condominio:
+    image: nginx:alpine
+    volumes:
+      - ./index.html:/usr/share/nginx/html/index.html
+    ports:
+      - "80:80"
+    restart: always
+
+  # Serviço 2: Banco de Dados do Zipline
+  postgres:
+    image: postgres:15
+    environment:
+      POSTGRES_USER: zipline
+      POSTGRES_PASSWORD: password
+      POSTGRES_DB: zipline
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+  # Serviço 3: Zipline (Aplicação exigida)
+  zipline:
+    image: diced/zipline
+    ports:
+      - "3000:3000"
+    environment:
+      DATABASE_URL: postgres://zipline:password@postgres/zipline
+      CORE_SECRET: "chave-secreta-muito-longa-para-o-projeto-de-redes-ufs-2025-aprovado"
+    depends_on:
+      - postgres
+
+volumes:
+  postgres_data:
