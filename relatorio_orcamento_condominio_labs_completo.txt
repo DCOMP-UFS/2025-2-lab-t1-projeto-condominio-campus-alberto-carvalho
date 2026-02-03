@@ -1,0 +1,128 @@
+
+1. CLASSIFICAÇÃO DOS DISPOSITIVOS POR TIPO
+
+A) Computação
+- 8 Computador completo: R$ 6.400,00
+- 5 Workstation (alto desempenho): R$ 11.990,00
+- 9 Notebook: R$ 5.930,00
+- 1 Servidor: R$ 51.000,00
+
+B) Rede
+- 7 Switch Camada 2: R$ 1.385,35
+- 8 Access Point Wi-Fi: R$ 1.698,99
+- 1 Gateway/Roteador corporativo: R$ 592,14
+- 3 Caixas Cabeamento estruturado (Cat5e): R$ 615,00
+
+C) Energia e infraestrutura
+- 8 Nobreak: R$ 750,00
+- 6 Ar-condicionado: R$ 2.499,00
+
+D) Pesquisa científica
+- 1 Microscópio óptico: R$ 6.895,56
+
+E) Mobiliário
+- 1 Mesa estação de trabalho: R$ 2.600,00
+- 23 Mesa de escritório: R$ 700,00
+- 23 Cadeira: R$ 500,00
+
+2. ORÇAMENTO POR LABORATÓRIO
+
+LAB 1 – Figurações do Feminino: Florbela Et All
+- 1 Access Point Wi-Fi
+- 1 Nobreak
+- 1 Switch
+- 3 Computadores completos
+- 1 Notebook
+- 1 Ar-condicionado
+- 4 Mesas escritório
+- 4 Cadeiras
+
+Total estimado Lab 1: R$ 36.263,34
+
+LAB 2 – GRUPE
+- 1 Switch Camada 2
+- 1 Access Point Wi-Fi
+- 1 Workstation
+- 1 Computador completo
+- 2 Notebooks
+- 4 Mesas escritório
+- 4 Cadeiras
+- 1 Ar-condicionado
+- 2 Nobreaks
+
+Total estimado Lab 2: R$ 42.132,34
+
+LAB 3 – Literatura e Visualidade
+- 1 Computador completo
+- 1 Workstation
+- 1 Notebook
+- 1 Switch
+- 1 Access Point Wi-Fi
+- 6 Mesas escritório
+- 6 Cadeiras
+- 1 Ar-condicionado
+- 2 Nobreaks
+
+Total estimado Lab 3: R$ 38.603,34
+
+LAB 4 – CATD
+- 1 Switch Camada 2
+- 1 Access Point Wi-Fi
+- 3 Notebooks
+- 1 Workstation
+- 3 Mesas escritório
+- 3 Cadeiras
+- 1 Ar-condicionado
+
+Total estimado Lab 4: R$ 38.963,34
+
+LAB 5 – GIEC
+- 1 Access Point Wi-Fi
+- 2 Workstations
+- 2 Notebooks
+- 1 Switch
+- 2 Nobreaks
+- 3 Mesas escritório
+- 3 Cadeiras
+- 1 Ar-condicionado
+
+Total estimado Lab 5: R$ 46.523,34
+
+LAB 6 – Taxonomia e Ecologia de Líquens
+- 3 Computadores completos
+- 1 Switch Camada 2
+- 1 Access Point Wi-Fi
+- 1 Nobreak
+- 1 Microscópio óptico
+- 1 Mesa estação de trabalho
+- 3 Mesas escritório
+- 3 Cadeiras
+- 1 Ar-condicionado
+
+Total estimado Lab 6: R$ 38.628,90
+
+3. DISPOSITIVOS DE USO GERAL DO CONDOMÍNIO
+
+Os equipamentos abaixo não pertencem a um laboratório específico,
+sendo compartilhados por todo o condomínio (6 laboratórios):
+
+- 01 Gateway / Roteador corporativo
+- 01 Servidor central
+- 01 Switch centrais adicionais
+- 02 Pontos de acesso adicionais
+- 3 Caixas de cabeamento estruturado (Cat5e)
+
+
+Subtotal – Condomínio (uso geral):
+R$ 58.220,47
+
+4. VALOR TOTAL DO PROJETO
+
+Soma dos laboratórios:
+R$ 241.114,60
+
+Soma dos equipamentos de uso geral do condomínio:
+R$ 58.220,47
+
+VALOR TOTAL GERAL DO PROJETO:
+R$ 299.336,07
