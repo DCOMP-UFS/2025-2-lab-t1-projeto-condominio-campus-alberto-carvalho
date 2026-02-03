@@ -57,7 +57,7 @@ Abaixo estão listados os grupos de pesquisa que compõem este condomínio.
 * **Líder:** Fabio Jose Santos de Oliveira
 * **Área:** Letras (Lingüística, Letras e Artes)
 * **Foco:** O Teatro de Ariano Suassuna e as relações entre texto e imagem.
-* **🔗 ACESSO AO LABORATÓRIO (DNS):** `http://[INSIRA_O_DNS_PUBLICO_DA_AWS_AQUI]`
+* **🔗 ACESSO AO LABORATÓRIO (DNS):** `(http://ec2-54-157-63-79.compute-1.amazonaws.com/)`
 
 ### 📚 4. Clínica da Atividade e Trabalho Docente (CATD)
 * **Pesquisador:** Joao Antonio Sousa da Silva
