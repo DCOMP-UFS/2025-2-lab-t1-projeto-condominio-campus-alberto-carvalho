@@ -28,6 +28,7 @@ Conforme exigido pelo edital, a equipe técnica e administrativa é composta por
 | Função | Membro Responsável | Justificativa |
 | :--- | :--- | :--- |
 | **Coordenador Geral** | **Guilherme Menezes de Azevedo** | Responsável técnico pela infraestrutura AWS e Docker. |
+| **Assistente de Atas** | **Adomak Silva Oliveira** | Gestào das Atas. |
 | **Contador/Tesoureiro** | **Júlia Rocha Valverde** | Gestão financeira do projeto. |
 
 ---
