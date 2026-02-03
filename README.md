@@ -38,6 +38,10 @@ A planta baixa lógica e física do condomínio encontra-se na pasta `/docs` des
 * `/uploads`: Volume persistente para arquivos do Zipline.
 
 ---
+## Identificação da Planta Baixa do Condomínio
+![Planta Baixa](PLANTABAIXA.jpeg)
+### Fonte : Gerado por IA pelo https://gemini.google.com/
+---
 
 ## Instruções de Instalação e Execução (AWS EC2)
 
