@@ -43,14 +43,14 @@ Abaixo estão listados os grupos de pesquisa que compõem este condomínio.
 * **Líder:** Adriana Sacramento de Oliveira
 * **Área:** Lingüística, Letras e Artes
 * **Foco:** Estudos sobre o corpo feminino e hibridismo na literatura latino-americana.
-* **🔗 ACESSO AO LABORATÓRIO (DNS):** `http://[INSIRA_O_DNS_PUBLICO_DA_AWS_AQUI]`
+* **🔗 ACESSO AO LABORATÓRIO (DNS):** `http://[ec2-54-87-198-4.compute-1.amazonaws.com]`
 
 ### 🌍 2. GRUPE - Estudos Urbano-regionais, Política e Educação
 * **Pesquisador:** Andre Felipe de Santana Conceicao
 * **Líder:** Ana Rocha dos Santos
 * **Área:** Geografia (Ciências Humanas)
 * **Foco:** Desenvolvimento regional, estado neoliberal e desigualdades em Sergipe.
-* **🔗 ACESSO AO LABORATÓRIO (DNS):** `http://[INSIRA_O_DNS_PUBLICO_DA_AWS_AQUI]`
+* **🔗 ACESSO AO LABORATÓRIO (DNS):** `http://[ec2-44-193-202-252.compute-1.amazonaws.com]`
 
 ### 🎨 3. Laboratório de Literatura e Visualidade
 * **Pesquisador:** Guilherme Menezes de Azevedo
@@ -64,21 +64,21 @@ Abaixo estão listados os grupos de pesquisa que compõem este condomínio.
 * **Líder:** Isabela Rosalia Lima de Araujo
 * **Área:** Educação (Ciências Humanas)
 * **Foco:** Precarização docente, inclusão escolar e BNCC nas escolas públicas.
-* **🔗 ACESSO AO LABORATÓRIO (DNS):** `http://[INSIRA_O_DNS_PUBLICO_DA_AWS_AQUI]`
+* **🔗 ACESSO AO LABORATÓRIO (DNS):** `http://[ec2-100-31-110-182.compute-1.amazonaws.com]`
 
 ### 📊 5. Gestão da Informação e Evidenciação Contábil (GIEC)
 * **Pesquisador:** José Renato Araújo Santana Filho
 * **Líder:** Juliano Almeida de Faria
 * **Área:** Administração (Ciências Sociais Aplicadas)
 * **Foco:** Auditoria, mercado acionário, educação financeira e marco legal do gás natural.
-* **🔗 ACESSO AO LABORATÓRIO (DNS):** `http://[INSIRA_O_DNS_PUBLICO_DA_AWS_AQUI]`
+* **🔗 ACESSO AO LABORATÓRIO (DNS):** `http://[ec2-34-235-136-209.compute-1.amazonaws.com]`
 
 ### 🌿 6. Taxonomia e Ecologia de Liquens
 * **Pesquisador:** Júlia Rocha Valverde
 * **Líder:** Marcela Eugenia da Silva Caceres
 * **Área:** Botânica (Ciências Biológicas)
 * **Foco:** Biodiversidade, taxonomia de fungos liquenizados e biotecnologia na Mata Atlântica/Caatinga.
-* **🔗 ACESSO AO LABORATÓRIO (DNS):** `http://[INSIRA_O_DNS_PUBLICO_DA_AWS_AQUI]`
+* **🔗 ACESSO AO LABORATÓRIO (DNS):** `http://[ec2-52-23-165-115.compute-1.amazonaws.com]`
 
 ---
 
