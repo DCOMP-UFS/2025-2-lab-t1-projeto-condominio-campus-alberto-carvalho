@@ -5,7 +5,7 @@ Este documento detalha a infraestrutura tecnológica e científica proposta para
 
 ---
 
-## 🏗️ 1. Infraestrutura Tecnológica Compartilhada
+## 🏗️ 1. Infraestrutura Tecnológica Compartilhada -> http://ec2-100-53-123-150.compute-1.amazonaws.com/
 
 O "Condomínio" opera sobre uma infraestrutura unificada para reduzir custos e facilitar a manutenção, composta por:
 
